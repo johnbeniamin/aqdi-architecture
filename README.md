@@ -25,4 +25,4 @@ PHP 8 · MySQL · Material Design (MDC Web) · DomPDF · Vanilla MVC
 
 ## Author
 
-John Beniamin — [dilydoc.com](https://dilydoc.com)
+John Beniamin — [dilycode.com](https://dilycode.com)
